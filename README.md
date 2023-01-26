@@ -2,31 +2,20 @@
 coverY: 0
 ---
 
-# Staking $WSAFU
+# ▫ Why WalletSAFU?
 
-{% hint style="success" %}
-_`Get passive income with massive APY on top of your holdings by betting coins that you have in your Guard Wallet.`_
-{% endhint %}
+_`WalletSAFU is a non-custodial wallet, so only users can control their personal data. Users are the only ones who have access to private information. No transactions can be tracked by third parties. Fingerprint authentication and PIN protection are some of the security features available.`_
 
-## _`What is Staking?`_
+### _`Available Everywhere`_&#x20;
 
-_`Staking is the process of storing funds in a cryptocurrency wallet. Users can earn passive income by providing support for all transactions on the blockchain. It is very similar to the bank deposit system and user rewards. However, unlike a bank, coin placement cannot lead to a negative percentage, there are no surcharges and hidden interest, your passive income is higher with less risk.`_
+_`Buy crypto assets worldwide using the local currency of your bank account.`_
 
-_`Proof-of-Stake makes the network more secure. A hacker's attack is only possible with 51% of all coins in his hands. Trying to hack the PoS algorithm blockchain is not profitable.`_
+### _`Fast Payment`_&#x20;
 
-## _`Types of algorithm for staking`_
+_`Buy cryptocurrencies by credit/debit card, Apple Pay, Union Pay, via SEPA.`_
 
-**`The main types of consensus algorithms for staking:`**
+### _`Desktop/Mobile Versions`_&#x20;
 
-* [x] _<mark style="background-color:purple;">**`Proof-of-Work* (PoS)->`**</mark>`Unlike Bitcoin's Proof-of-Work* (PoW) method, the next block validator is selected based on the number of coins and by random combinations. To receive a reward, you only need to have coins (HODL) in your wallet. User rewards = transaction fees.`_
+_`Use an online wallet, desktop wallet, or download our mobile wallet app. In addition, WalletSAFU is also available for Android.`_
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><em><mark style="background-color:purple;"><strong><code>Proof-of-Work* (PoS)</code></strong></mark></em></p></figcaption></figure>
-
-* [x] _**`Proof of Work (PoW) ->`**`The algorithm requires complex calculations, the result of which can be easily verified by every participant in the network. For example, transactions in the Bitcoin blockchain are pooled in a memory pool while a block is created every 10 minutes.`_
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-* [x] _**`Proof of Delegated Participation (DPoS)->`**` ``This consensus mechanism is designed to solve the scalability problems of BTC. Its process is similar to the principle of democracy. About twenty fullnodes are selected for mining blocks. The users who voted for them receive a percentage of the block's reward.`_
-* [x] _`Proof of Leased Participation (LPoS) This mechanism allows any user with a small balance (number of coins) to "rent" (account rent) their coins to fullnodes with a good connection. Users can receive a reward for creating blocks and participate in the life of the network.`_
-* [x] _`Masternodes (MPoS) A fullnode can become a masternode if it invests a large number of coins. These nodes are considered more reliable than fullnodes. Masternode stacking usually combined with PoS or PoW.`_
-* [x] _`Binding Proof of Participation (BPoS) Any number of users reserve part of their stake for new blocks to be generated. They block part of their stake for a certain period of time (escrow). Then they have the chance to select the next block proportional to the amount of bets.`_\
+_``_
