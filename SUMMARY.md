@@ -18,7 +18,6 @@
 
 ## products
 
-* [▫ Web WalletSAFU](products/web-walletsafu.md)
 * [▫ WalletSAFU mobile](group-1/walletsafu-mobile.md)
   * [▫ Benefits of the Mobile App](group-1/benefits-of-the-mobile-app.md)
 * [▫ Prepaid Cards](products/prepaid-cards.md)
@@ -30,6 +29,8 @@
   * [▫ PoW](group-1/staking-usdwsafu/pow.md)
   * [▫ PoS](group-1/staking-usdwsafu/pos.md)
 * [▫ Referral $WSAFU](earn/referral-usdwsafu.md)
+* [▫ Metaverse $WSAFU](earn/metaverse-usdwsafu.md)
+* [▫ NFT's $WSAFU](earn/nfts-usdwsafu.md)
 
 ## tokenomics
 
