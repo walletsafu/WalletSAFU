@@ -21,6 +21,8 @@
 * [▫ WalletSAFU mobile](group-1/walletsafu-mobile.md)
   * [▫ Benefits of the Mobile App](group-1/benefits-of-the-mobile-app.md)
 * [▫ Prepaid Cards](products/prepaid-cards.md)
+* [▫ Telegram Customization](products/telegram-customization.md)
+* [▫ Platform for Freelancers](products/platform-for-freelancers.md)
 
 ## Earn
 
