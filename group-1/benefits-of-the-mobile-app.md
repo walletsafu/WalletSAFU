@@ -19,7 +19,7 @@ _`Low exchanges fees 0% fees`_&#x20;
 
 Send and get crypto
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 Access your crypto on-the-go
 

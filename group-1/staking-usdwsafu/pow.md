@@ -9,7 +9,7 @@ coverY: 0
 
 _`To add each block to the chain, miners must compete to solve a difficult puzzle using their computers power.`_
 
-_``_![](<../../.gitbook/assets/image (5).png>)_``_
+_``_![](<../../.gitbook/assets/image (5) (1).png>)_``_
 
 _`In order to add a malicious block, you'd have to have a computer more powerful than 51% of the network.`_
 

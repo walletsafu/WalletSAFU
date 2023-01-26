@@ -15,7 +15,7 @@ _``_![](<../../.gitbook/assets/image (4) (2).png>)_``_
 
 _**`Your funds are safe  ->`**` ``WalletSAFU has no control over your funds and private keys.`_
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 _**`Fast and simple crypto transactions ->`**`The free custody service makes managing your fund much easier and faster.`_
 

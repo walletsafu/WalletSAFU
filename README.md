@@ -15,8 +15,18 @@ _`User privacy and anonymity are the main postulates for us, so we do not store 
 _`Our core values are freedom of privacy and high-level security.`_
 {% endhint %}
 
-![](.gitbook/assets/image.png) Privacy We - respect everyone and guarantee total anonymity for our users>
+![](<.gitbook/assets/image (13).png>) _**`Privacy ->`**`We respect everyone and guarantee total anonymity for our users.`_
+
+![](<.gitbook/assets/image (3).png>)**`Security ->`**` ``We offer users exceptional security of their funds.`
+
+![](.gitbook/assets/image.png)**`Decentralization ->`**` ``We fully support the decentralization of the network.`
+
+``![](<.gitbook/assets/image (1).png>)**`Integrity ->`**` ``We believe in a bright future of cryptography and we build it with everyone who joins.`
+
+`-----------------------------------------------------------------------------`
 
 ## _`Leadership`_
 
 _`@ CEO of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU. @'s interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
+
+_``_
