@@ -1,8 +1,9 @@
 ---
+cover: ../../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
-# ▫ Custodial Vs Não-Custodial.
+# ▫ Custodial Vs Non-Custodial.
 
 _`A Non-Custodial wallet provides you with a full control of your funds. Only you are responsible for the security of your crypto assets. Non-custodial wallets don’t store private keys, backup files or any user data on its servers. The keys are encrypted and stored on the user’s devices.`_
 

@@ -1,5 +1,6 @@
 ---
 description: Prepaid Cards (Coming soon)
+cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 

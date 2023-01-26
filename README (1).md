@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
@@ -14,8 +15,8 @@ _`Buy crypto assets worldwide using the local currency of your bank account.`_
 
 _`Buy cryptocurrencies by credit/debit card, Apple Pay, Union Pay, via SEPA.`_
 
-### _`Desktop/Mobile Versions`_&#x20;
+### _`Mobile Versions`_&#x20;
 
-_`Use an online wallet, desktop wallet, or download our mobile wallet app. In addition, WalletSAFU is also available for Android.`_
+_`Use an online wallet,download our mobile wallet app. In addition, WalletSAFU is also available for Android.`_
 
 _``_

@@ -1,5 +1,6 @@
 ---
 description: The following is an overview of the mobile app's benefits.
+cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
