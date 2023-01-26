@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Secure Data
+# ▫ Secure Data
 
 _`Your crypto assets are safe thanks to high levels of security. With WalletSAFU, users do not need to enter personal data to create a wallet, deposit or withdraw their funds. WalletSAFU never asks for private information and does not store private keys on the company's servers, because it is not necessary. All user data is known only to the user. Therefore, no one can ever de-anonymize you.`_
 
