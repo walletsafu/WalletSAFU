@@ -11,7 +11,7 @@ _`Our ambassadors are the most active and elite members of the WalletSAFU commun
 
 ![](<../../.gitbook/assets/image (9).png>)_`Are you an expert on everything cryptography or, better yet, eager to learn more?`_
 
-_``_![](../../.gitbook/assets/image.png)_`Do you love good conversation, good laughs, and helping others?`_
+_``_![](<../../.gitbook/assets/image (4).png>)_`Do you love good conversation, good laughs, and helping others?`_
 
 _``_![](<../../.gitbook/assets/image (7).png>)_`Are you passionate about cryptography and want to get more involved?`_
 

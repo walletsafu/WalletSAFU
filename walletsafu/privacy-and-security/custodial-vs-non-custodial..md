@@ -7,11 +7,11 @@ coverY: 0
 
 _`A Non-Custodial wallet provides you with a full control of your funds. Only you are responsible for the security of your crypto assets. Non-custodial wallets don’t store private keys, backup files or any user data on its servers. The keys are encrypted and stored on the user’s devices.`_
 
-_``_![](<../../.gitbook/assets/image (1).png>) _``_&#x20;
+_``_![](<../../.gitbook/assets/image (1) (3).png>) _``_&#x20;
 
 _**`Only You Have Access ->`**` ``WalletSAFU allows users to fully own and manage their private keys and user data.`_
 
-_``_![](<../../.gitbook/assets/image (4).png>)_``_
+_``_![](<../../.gitbook/assets/image (4) (2).png>)_``_
 
 _**`Your funds are safe  ->`**` ``WalletSAFU has no control over your funds and private keys.`_
 
