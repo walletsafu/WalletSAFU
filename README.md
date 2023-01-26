@@ -2,20 +2,18 @@
 coverY: 0
 ---
 
-# ▫ Why WalletSAFU?
+# ▫ About the Company
 
-_`WalletSAFU is a non-custodial wallet, so only users can control their personal data. Users are the only ones who have access to private information. No transactions can be tracked by third parties. Fingerprint authentication and PIN protection are some of the security features available.`_
+## _`Mission`_
 
-### _`Available Everywhere`_&#x20;
+_`The developers of WalletSAFU have created digital wallets that provide complete security. Everyone can use our software to store and manage cryptocurrencies with ease. We respect, appreciate, and sincerely love blockchain technology. Our priority is the decentralization of WalletSAFU's software according to the basic principles of blockchain.`_
 
-_`Buy crypto assets worldwide using the local currency of your bank account.`_
+_`User privacy and anonymity are the main postulates for us, so we do not store your private keys, backup files or any other data on WalletSAFU servers. All your private data is stored only by you. Our wallet is lightweight, with a practical and intuitive interface.`_
 
-### _`Fast Payment`_&#x20;
+{% hint style="success" %}
+_`Our core values are freedom of privacy and high-level security.`_
+{% endhint %}
 
-_`Buy cryptocurrencies by credit/debit card, Apple Pay, Union Pay, via SEPA.`_
+## _`Leadership`_
 
-### _`Desktop/Mobile Versions`_&#x20;
-
-_`Use an online wallet, desktop wallet, or download our mobile wallet app. In addition, WalletSAFU is also available for Android.`_
-
-_``_
+_`@ CEO of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU. @'s interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_

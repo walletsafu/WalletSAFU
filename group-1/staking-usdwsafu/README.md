@@ -20,7 +20,7 @@ _`Proof-of-Stake makes the network more secure. A hacker's attack is only possib
 
 * [x] _<mark style="background-color:purple;">**`Proof-of-Work* (PoS)->`**</mark>`Unlike Bitcoin's Proof-of-Work* (PoW) method, the next block validator is selected based on the number of coins and by random combinations. To receive a reward, you only need to have coins (HODL) in your wallet. User rewards = transaction fees.`_
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] _**`Proof of Work (PoW) ->`**`The algorithm requires complex calculations, the result of which can be easily verified by every participant in the network. For example, transactions in the Bitcoin blockchain are pooled in a memory pool while a block is created every 10 minutes.`_
 

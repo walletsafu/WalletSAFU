@@ -22,11 +22,11 @@ Send and get crypto
 
 Access your crypto on-the-go
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 Swap crypto
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 Buy Crypto
 
