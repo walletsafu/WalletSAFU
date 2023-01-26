@@ -14,8 +14,8 @@ coverY: 0
 
 ## What you will get!
 
-* [x] Frequent payments in token walletSAFU - $WSAFU
-* [x] Exclusive membership in the WalletSAFU referral program
-* [x] Work closely with our marketing and product teams and help shape the future of WalletSAFU.
+* [x] _`Frequent payments in token walletSAFU - $WSAFU`_
+* [x] _`Exclusive membership in the WalletSAFU referral program`_
+* [x] _`Work closely with our marketing and product teams and help shape the future of WalletSAFU.`_
 
 ## [Access the form](./)
