@@ -19,7 +19,7 @@ _`Full control over private keys. Encrypted backup for extra security. We do not
 
 _`Buy, exchange, or send cryptocurrencies to anyone, anywhere, with just a few taps.`_
 
-#### Staking&#x20;
+#### _`Bet and win`_
 
 _`Earn rewards just by holding cryptocurrencies.`_
 
