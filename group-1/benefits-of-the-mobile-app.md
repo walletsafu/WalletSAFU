@@ -10,27 +10,27 @@ _`Following the beta release of our mobile app, we are one step closer to provid
 \
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 _`Low exchanges fees 0% fees`_&#x20;
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 Send and get crypto
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 Access your crypto on-the-go
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 Swap crypto
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 Buy Crypto
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 Live crypto prices and watchlists
 
