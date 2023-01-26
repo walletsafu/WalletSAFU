@@ -20,7 +20,6 @@ _`Validation of a non-fungible token is done through a digital certificate of ow
 
 * [x] _`Access your NFTs on multiple blockchains and protocols.`_
 * [x] _`Create custom collections to easily manage your NFTs.`_
-* [x] _`Share your collection like you share a YouTube video.`_
 
 ## _`Augmented and Virtual Reality Streaming`_
 
