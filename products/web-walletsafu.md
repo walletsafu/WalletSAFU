@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Web WalletSAFU
+# ▫ Web WalletSAFU
 
 {% hint style="success" %}
 _`Secure and convenient online crypto wallet, available anywhere, anytime. Buy, bet, store and trade cryptocurrencies, tokens and stablecoins.`_

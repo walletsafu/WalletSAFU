@@ -8,7 +8,7 @@ coverY: 0
 _`Secure and convenient mobile crypto wallet to buy, stake, store, and exchange cryptocurrencies, tokens, and stablecoins.`_
 {% endhint %}
 
-## WalletSAFU is a perfectly balanced blend of speed, security, performance and excellent user experience
+## _`WalletSAFU is a perfectly balanced blend of speed, security, performance and excellent user experience`_
 
 #### _`Maximum security`_
 
@@ -22,6 +22,6 @@ _`Buy, exchange, or send cryptocurrencies to anyone, anywhere, with just a few t
 
 _`Earn rewards just by holding cryptocurrencies.`_
 
-## Pay with your cryptocurrency anywhere
+## _`Pay with your cryptocurrency anywhere`_
 
-#### Get your Prepaid Visa Card now by WalletSAFU (coming soon).
+#### _`Get your Prepaid Card now by WalletSAFU (coming soon).`_
