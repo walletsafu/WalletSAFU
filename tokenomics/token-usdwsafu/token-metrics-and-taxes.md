@@ -13,7 +13,7 @@ coverY: 0
 | _`Marketing`_                 |  2% |
 | _`Wallet Maintenance`_        | 10% |
 | _`Future Wallet Updates`_     | 10% |
-| _`Premium Pass NFT $WSAFU`_   | 10% |
+| _`Premium Pass NFT $WSAFU`_   | 15% |
 | _`Ambassador $WSAFU Program`_ |  5% |
 
 ## _`COMPLETELY TAX-FREE ON PURCHASES AND SALES`_

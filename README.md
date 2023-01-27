@@ -27,6 +27,6 @@ _`Our core values are freedom of privacy and high-level security.`_
 
 ## _`Leadership`_
 
-_`@ CEO of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU. @'s interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
+@ceowsafu _`of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU. @ceowsafu interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
 
 _``_
