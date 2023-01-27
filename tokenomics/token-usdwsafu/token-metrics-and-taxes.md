@@ -7,14 +7,14 @@ coverY: 0
 
 | Token Metrics                 |  %  |
 | ----------------------------- | :-: |
-| _`Presale`_                   |  -  |
-| _`Liquidity`_                 |  -  |
-| _`Team`_                      |  -  |
-| _`Marketing`_                 |  -  |
-| _`Wallet Maintenance`_        |  -  |
-| _`Future Wallet Updates`_     |  -  |
-| _`Premium Pass NFT $WSAFU`_   |  -  |
-| _`Ambassador $WSAFU Program`_ |  -  |
+| _`Presale`_                   | 30% |
+| _`Liquidity`_                 | 25% |
+| _`Team`_                      |  3% |
+| _`Marketing`_                 |  2% |
+| _`Wallet Maintenance`_        | 10% |
+| _`Future Wallet Updates`_     | 10% |
+| _`Premium Pass NFT $WSAFU`_   | 10% |
+| _`Ambassador $WSAFU Program`_ |  5% |
 
 ## _`COMPLETELY TAX-FREE ON PURCHASES AND SALES`_
 
