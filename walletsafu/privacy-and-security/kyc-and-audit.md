@@ -9,4 +9,6 @@ coverY: 0
 
 _`Our main intention is to transmit confidence and above all safety to our investors.`_
 
+<figure><img src="../../.gitbook/assets/b.png" alt=""><figcaption></figcaption></figure>
+
 _`Coming soon...`_

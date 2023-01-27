@@ -15,3 +15,5 @@ _`Cryptocurrencies have taken financial privacy to a new level. The key privacy 
 
 _`The decentralization used in blockchain makes you the only one in control of your funds. No one can blockchain your wallet. Funds cannot be seized, frozen, or confiscated.`_
 
+<figure><img src="../../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
+

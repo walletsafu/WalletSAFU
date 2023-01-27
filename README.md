@@ -15,6 +15,10 @@ _`User privacy and anonymity are the main postulates for us, so we do not store 
 _`Our core values are freedom of privacy and high-level security.`_
 {% endhint %}
 
+<figure><img src=".gitbook/assets/f.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://play.google.com/store/apps/details?id=wallet.safu.appcenter" %}
+
 ![](<.gitbook/assets/image (13).png>) _**`Privacy ->`**`We respect everyone and guarantee total anonymity for our users.`_
 
 ![](<.gitbook/assets/image (3).png>)**`Security ->`**` ``We offer users exceptional security of their funds.`
