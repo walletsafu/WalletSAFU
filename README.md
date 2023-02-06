@@ -39,6 +39,6 @@ _**`Privacy ->`**`We respect everyone and guarantee total anonymity for our user
 
 ## _`Leadership`_
 
-@ceowsafu _`of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU. @ceowsafu interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
+[@ceowsafu](https://t.me/ceowsafu) _`of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU.`_ [_`@ceowsafu`_ ](https://t.me/ceowsafu)_`interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
 
 _``_
