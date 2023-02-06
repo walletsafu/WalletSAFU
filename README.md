@@ -19,13 +19,21 @@ _`Our core values are freedom of privacy and high-level security.`_
 
 {% embed url="https://play.google.com/store/apps/details?id=wallet.safu.appcenter" %}
 
-![](<.gitbook/assets/image (13).png>) _**`Privacy ->`**`We respect everyone and guarantee total anonymity for our users.`_
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/image (3).png>)**`Security ->`**` ``We offer users exceptional security of their funds.`
+_**`Privacy ->`**`We respect everyone and guarantee total anonymity for our users.`_
 
-![](.gitbook/assets/image.png)**`Decentralization ->`**` ``We fully support the decentralization of the network.`
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-``![](<.gitbook/assets/image (1).png>)**`Integrity ->`**` ``We believe in a bright future of cryptography and we build it with everyone who joins.`
+**`Security ->`**` ``We offer users exceptional security of their funds.`
+
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
+**`Decentralization ->`**` ``We fully support the decentralization of the network.`
+
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+**`Integrity ->`**` ``We believe in a bright future of cryptography and we build it with everyone who joins.`
 
 `-----------------------------------------------------------------------------`
 
