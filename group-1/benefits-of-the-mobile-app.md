@@ -8,32 +8,29 @@ coverY: 0
 
 _`Following the beta release of our mobile app, we are one step closer to providing users with a better crypto management solution. More cryptocurrencies have also been added for you to transact. And you can even get lower fees on exchange when you use the mobile app during the beta testing period.`_
 
-\
+<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
+## _`Low exchanges fees 0% fees`_&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
-_`Low exchanges fees 0% fees`_&#x20;
+## Send and get crypto
 
-![](<../.gitbook/assets/image (20).png>)
+<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
-Send and get crypto
+## Access your crypto on-the-go
 
-![](<../.gitbook/assets/image (13) (1).png>)
+<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 
-Access your crypto on-the-go
+## Swap crypto
 
-![](<../.gitbook/assets/image (3) (2).png>)
+<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
-Swap crypto
+## Buy Crypto
 
-![](<../.gitbook/assets/image (1) (2).png>)
+<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
-Buy Crypto
-
-![](<../.gitbook/assets/image (17).png>)
-
-Live crypto prices and watchlists
+## Live crypto prices and watchlists
 
 \
 
