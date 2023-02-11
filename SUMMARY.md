@@ -14,7 +14,7 @@
 
 ## Buy WalletSafu
 
-* [Fairlaunch - Pinksale](https://www.pinksale.finance/)
+* [Fairlaunch - Pinksale](https://www.pinksale.finance/launchpad/0xcc32197C93a0C47a72071F61fef9bb7a9aF35708?chain=BSC)
 
 ## products
 

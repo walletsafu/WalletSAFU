@@ -5,16 +5,17 @@ coverY: 0
 
 # ▫ Token Metrics and Taxes
 
-| Token Metrics                 |  %  |
-| ----------------------------- | :-: |
-| _`Presale`_                   | 30% |
-| _`Liquidity`_                 | 25% |
-| _`Team`_                      |  3% |
-| _`Marketing`_                 |  2% |
-| _`Wallet Maintenance`_        | 10% |
-| _`Future Wallet Updates`_     | 10% |
-| _`Premium Pass NFT $WSAFU`_   | 15% |
-| _`Ambassador $WSAFU Program`_ |  5% |
+| Token Metrics                 |      %     |
+| ----------------------------- | :--------: |
+| _`Presale`_                   |  30.3399%  |
+| _`Liquidity`_                 | 14.699682% |
+| _`Team`_                      |     3%     |
+| Wallet AI                     |  9.960418% |
+| _`Marketing`_                 |     2%     |
+| _`Wallet Maintenance`_        |     10%    |
+| _`Future Wallet Updates`_     |     10%    |
+| _`Premium Pass NFT $WSAFU`_   |     15%    |
+| _`Ambassador $WSAFU Program`_ |     5%     |
 
 ## _`COMPLETELY TAX-FREE ON PURCHASES AND SALES`_
 
