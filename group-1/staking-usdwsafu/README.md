@@ -7,14 +7,14 @@ coverY: 0
 # ▫ Staking $WSAFU
 
 {% hint style="success" %}
-_`Get passive income with massive APY on top of your holdings by betting coins that you have in your Guard Wallet.`_
+`Get passive income with a massive APY on top of your holdings by staking coins that you have in your Guard Wallet.`
 {% endhint %}
 
 ## _`What is Staking?`_
 
-_`Staking is the process of storing funds in a cryptocurrency wallet. Users can earn passive income by providing support for all transactions on the blockchain. It is very similar to the bank deposit system and user rewards. However, unlike a bank, coin placement cannot lead to a negative percentage, there are no surcharges and hidden interest, your passive income is higher with less risk.`_
+_`Staking is the process of holding funds in a cryptocurrency wallet. Users can earn passive income by providing support for all transactions on the blockchain. It is very similar to the bank deposit system and user rewards. However, unlike a bank, coin placement cannot lead to a negative percentage, there are no surcharges and hidden interest, and your passive income is higher with less risk.`_
 
-_`Proof-of-Stake makes the network more secure. A hacker's attack is only possible with 51% of all coins in his hands. Trying to hack the PoS algorithm blockchain is not profitable.`_
+_`Proof-of-Stake makes the network more secure. A hacker's attack is only possible with 51% of all coins in their possession. Trying to hack the PoS algorithm blockchain is not profitable.`_
 
 ## _`Types of algorithm for staking`_
 

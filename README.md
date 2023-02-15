@@ -12,7 +12,7 @@ _`The developers of WalletSAFU have created digital wallets that provide complet
 _`User privacy and anonymity are the main postulates for us, so we do not store your private keys, backup files or any other data on WalletSAFU servers. All your private data is stored only by you. Our wallet is lightweight, with a practical and intuitive interface.`_
 
 {% hint style="success" %}
-_`Our core values are freedom of privacy and high-level security.`_
+`Our core values are privacy freedom and high-level security.`
 {% endhint %}
 
 <figure><img src=".gitbook/assets/f.png" alt=""><figcaption></figcaption></figure>
@@ -21,11 +21,11 @@ _`Our core values are freedom of privacy and high-level security.`_
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-_**`Privacy ->`**`We respect everyone and guarantee total anonymity for our users.`_
+_**`Privacy ->`**`We respect everyone and guarantee complete anonymity for our users.`_
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-**`Security ->`**` ``We offer users exceptional security of their funds.`
+_**`Security ->`**` ``We offer users exceptional security of their funds.`_
 
 <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,12 +33,12 @@ _**`Privacy ->`**`We respect everyone and guarantee total anonymity for our user
 
 <figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-**`Integrity ->`**` ``We believe in a bright future of cryptography and we build it with everyone who joins.`
+**`Integrity ->`**_`We believe in a bright future for cryptography, and we are building it with everyone who joins us.`_
 
 `-----------------------------------------------------------------------------`
 
 ## _`Leadership`_
 
-[@ceowsafu](https://t.me/ceowsafu) _`of WalletSAFU with over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU.`_ [_`@ceowsafu`_ ](https://t.me/ceowsafu)_`interests are focused on decentralization, custody-free cryptocurrency management and privacy solutions.`_
+_`The CEO of WalletSAFU has over 7 years of experience in the field of blockchain technologies and cryptocurrencies. In addition to being the principal visionary of WalletSAFU, the CEO's interests are focused on decentralization, custody-free cryptocurrency management, and privacy solutions.`_
 
 _``_

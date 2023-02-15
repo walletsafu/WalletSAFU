@@ -9,7 +9,7 @@ coverY: 0
 
 
 {% hint style="success" %}
-_`You can reload it using your crypto wallets and pay anywhere.`_&#x20;
+You can reload it using your crypto wallets and pay anywhere.
 {% endhint %}
 
 ## _`Accepted everywhere`_

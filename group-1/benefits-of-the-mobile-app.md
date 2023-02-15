@@ -10,11 +10,11 @@ _`Following the beta release of our mobile app, we are one step closer to provid
 
 <figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
-## _`Low exchanges fees 0% fees`_&#x20;
+## `Low exchange fees (0% fees)`
 
 <figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
-## Send and get crypto
+## `Send and receive crypto`
 
 <figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,15 +22,15 @@ _`Following the beta release of our mobile app, we are one step closer to provid
 
 <figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 
-## Swap crypto
+## `Swap cryptocurrencies`
 
 <figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
-## Buy Crypto
+## `Buy cryptocurrencies`
 
 <figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
-## Live crypto prices and watchlists
+## `Live crypto prices and watchlists`
 
 \
 
